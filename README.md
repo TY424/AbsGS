@@ -17,7 +17,7 @@
 
 
     </p>
-
+    
     <h3 align="center"> <a href="https://arxiv.org/pdf/2404.10484.pdf">arXiv</a> | <a href="https://ty424.github.io/AbsGS.github.io/">Project Page</a>  </h3>
     <div align="center"></div>
 
@@ -25,18 +25,19 @@
 
   <p align="center">
     <a href="">
-      <img src="./README.assets/teaser-jpg-lwy.jpg" alt="Logo" width="100%">
+      <img src="./README.assets/image-20240418110728875.png" alt="Logo" width="100%">
     </a>
   </p>
+
+
+
 
   <p align="left">
   We reveal that the original adaptive density control strategy in 3D Gaussian Splatting (3D-GS) has the flaw of gradient collision which results in degradation, and propose homodirectional gradient as the guidance for densification. (a) Our method recovers fine details and achieves higher quality novel view synthesis results. SSIM, PSNR, LPIPS are inset. (b) Our proposed method yields more reasonable distribution of Gaussion points with comparable number of Gaussians and memory consumption with 3D-GS. (c) By adopting our method, the large Gaussians in over-reconstructed regions that lead to blur are eliminated.</p>
 
   <br>
 
-  
-
-  
+​    
 
   # Citation
 
