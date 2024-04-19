@@ -1,6 +1,5 @@
 
 - <p align="center">
-
     <h1 align="center">AbsGS: Recovering Fine Details for 3D Gaussian Splatting</h1>
     <p align="center">
         <a href="https://github.com/TY424">Zongxin Ye</a><sup>+</sup>
@@ -9,7 +8,7 @@
       ·
       <a href="https://github.com/Liu-SD">Sidun Liu</a>
       ·
-      <a>Peng Qiao</a>
+      <a href="https://github.com/qiaopTDUN">Peng Qiao</a>
       ·
       <a >Yong Dou</a>
 
