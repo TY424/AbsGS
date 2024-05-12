@@ -1,7 +1,6 @@
 
 - <p align="center">
-
-    <h1 align="center">AbsGS: Recovering Fine Details for 3D Gaussian Splatting</h1>
+  <h1 align="center">AbsGS: Recovering Fine Details for 3D Gaussian Splatting</h1>
     <p align="center">
         <a href="https://github.com/TY424">Zongxin Ye</a><sup>+</sup>
       ·
@@ -13,8 +12,9 @@
       ·
       <a >Yong Dou</a>
     </p>
-    <h3 align="center"> <a href="https://arxiv.org/pdf/2404.10484.pdf">arXiv</a> | <a href="https://ty424.github.io/AbsGS.github.io/">Project Page</a> | <a href="https://github.com/TY424/AbsGS">Code(Coming soon)</a> </h3>
+    <h3 align="center"> <a href="https://arxiv.org/pdf/2404.10484.pdf">arXiv</a> | <a href="https://ty424.github.io/AbsGS.github.io/">Project Page</a> | <a href="https://github.com/TY424/AbsGS">Code</a> </h3>
     <div align="center"></div>
+    
   </p>
 
 
