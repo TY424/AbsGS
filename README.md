@@ -82,7 +82,7 @@ We noticed that the visualization results of point clouds in COLMAP are inconsis
 
 <img src="./README.assets/point.jpeg" alt="point" style="zoom:13%;" />
 
-#### Weight-based pruning
+### Weight-based pruning
 
 Taking inspiration from the pruning strategy based on  ```max_radii2d```  in  3DGS, we conduct pruning based on the contribution (```max_weight```) of the Gaussian  during rendering , where ```max_weight``` represents the maximum weight of the Gaussian  participated in all rendering processes.
 
