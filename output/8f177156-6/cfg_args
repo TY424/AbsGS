@@ -1,1 +1,0 @@
-Namespace(data_device='cuda', eval=False, images='images', init_prune=False, model_path='./output/8f177156-6', resolution=-1, sh_degree=3, source_path='/home/yzx/GIT/3DGS/AbsGS/code/git/AbsGS', white_background=True)
