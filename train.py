@@ -34,7 +34,7 @@ def training(dataset, opt, pipe, testing_iterations, saving_iterations, checkpoi
     gaussians = GaussianModel(dataset.sh_degree)
     scene = Scene(dataset, gaussians)
     gaussians.training_setup(opt)
-    if args.init_prune:
+    if dataset.init_prune:
         gaussians.initial_prune()
     if checkpoint:
         (model_params, first_iter) = torch.load(checkpoint)
