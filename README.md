@@ -45,7 +45,7 @@ conda env create --file environment.yml
 conda activate Absgs
 
 cd submodules/
-python ./diff-gaussian-rasterization-/setup.py install
+python ./diff-gaussian-rasterization-abs/setup.py install
 python ./simple-knn/setup.py install
 ```
 
