@@ -14,7 +14,7 @@
     </p>
     <h3 align="center"> <a href="https://arxiv.org/pdf/2404.10484.pdf">arXiv</a> | <a href="https://ty424.github.io/AbsGS.github.io/">Project Page</a> | <a href="https://github.com/TY424/AbsGS">Code</a> </h3>
     <div align="center"></div>
-    
+  
   </p>
 
 
@@ -45,7 +45,7 @@ conda env create --file environment.yml
 conda activate Absgs
 
 cd submodules/
-python ./diff-gaussian-rasterization/setup.py install
+python ./diff-gaussian-rasterization-/setup.py install
 python ./simple-knn/setup.py install
 ```
 
