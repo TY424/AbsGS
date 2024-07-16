@@ -4,7 +4,7 @@
     <p align="center">
         <a href="https://github.com/TY424">Zongxin Ye</a><sup>+</sup>
       ·
-      <a href="https://github.com/leo-frank">Wenyu Li</a><sup>+</sup>
+      <a href="https://leo-frank.github.io">Wenyu Li</a><sup>+</sup>
       ·
       <a href="https://github.com/Liu-SD">Sidun Liu</a>
       ·
