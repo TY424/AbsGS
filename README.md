@@ -24,7 +24,9 @@
     </a>
   </p>
 
-
+  <p align="left">
+This repository contains code for "AbsGS: Recovering Fine Details for 3D Gaussian Splatting" (ACM MM 2024).
+<br>
   <p align="left">
   We reveal that the original adaptive density control strategy in 3D Gaussian Splatting (3D-GS) has the flaw of gradient collision which results in degradation, and propose homodirectional gradient as the guidance for densification. (a) Our method recovers fine details and achieves higher quality novel view synthesis results. SSIM, PSNR, LPIPS are inset. (b) Our proposed method yields more reasonable distribution of Gaussion points with comparable number of Gaussians and memory consumption with 3D-GS. (c) By adopting our method, the large Gaussians in over-reconstructed regions that lead to blur are eliminated.</p>
 
